@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "K38msFmGbPVsgTsmcJFg2dSqKREMt7l-";
-char ssid[] = "AndroidAP";
+char auth[] = "O84q26h2kOz6NlCLgTcX4NtkdUfNu0Dq";//upadted auth token
+char ssid[] = "Extension";
 char pass[] = "11111111";
 
 WidgetTerminal terminal(V2);
