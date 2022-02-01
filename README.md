@@ -1,2 +1,4 @@
 # iot project -Remte Sensing circuit
-This code integrates the Blynk interface with NodeMCU
+A IoT project on building a model for measuring, controlling and verifying the kirchoff's laws of a circuit remotely.
+
+For complete details refer to the pdf.
